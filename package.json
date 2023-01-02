@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula de introdução ao back end e node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil" : "node index.js Brazil",
+    "busca" : "node buscaPorLetra.js b",
+    "addpais" : "node addPais.js Bigaland BG"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbigaram/node-package-json-template.git"
+  },
+  "author": "Ammal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbigaram/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/mbigaram/node-package-json-template#readme"
+}
